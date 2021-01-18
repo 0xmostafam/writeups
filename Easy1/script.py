@@ -8,4 +8,4 @@ for i in range(length):
     else:
         text[i] = chr(newChar + 65)
 
-print(''.join(i for i in text))
+print("picoCTF{" + ''.join(i for i in text) + "}")

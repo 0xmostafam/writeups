@@ -5,6 +5,8 @@ Hint 1 : What is a hex editor?
 
 # Solution
 
+photo :
+![alt image](garden.jpg)
 you can use the following command to get the flag where strings gets all the readable strings in a file and grep gets only the matching strings with the given string
 
 ```bash
