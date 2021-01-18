@@ -3,6 +3,8 @@
 The numbers... what do they mean?
 Hint 1 : The flag is in the format PICOCTF{}
 
+![alt image](the_numbers.png)
+
 # Solution
 
 we now that the beginning of the flag is PICOCTF so the first 7 numbers stand for PICOCTF and we can also observe that each number represent its counter in the alphapet so we can just continue manually or in my case to practise more on python i made a simple script (it is bad i know)
