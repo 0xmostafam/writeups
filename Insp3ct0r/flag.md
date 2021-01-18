@@ -7,7 +7,7 @@ Hint 2 : There's 3 parts
 # Solution
 
 1. right click -> view page source.
-2. you will find three parts in the HTML,CSS,JS files.
+2. you will find the three parts in the HTML,CSS,JS files.
 
 # Flag
 
