@@ -11,7 +11,7 @@ use a online converter from 42 to binary or you can be old school and do it manu
 10 0  
 5 1  
 2 0  
-1 1
+1 1  
 0
 
 # Flag

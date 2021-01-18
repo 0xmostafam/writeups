@@ -7,7 +7,7 @@ Hint 1 : Submit your answer in our flag format. For example, if your answer was 
 
 change the number to decimal first  
 [ 0x70 = 112 ]  
-and look for it in a ASCII table
+and look for it in a ASCII table  
 ![alt image][https://bournetocode.com/projects/gcse_computing_fundamentals/pages/img/ascii_table_lge.png]
 
 # Flag
