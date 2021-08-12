@@ -44,7 +44,7 @@ so lets save those letters in a txt file to deal with them with python script to
 
 with this script
 
-# coding: utf-8
+coding: utf-8
 newmap={
 2: "PostFail",
 4: "a",
